@@ -167,7 +167,7 @@ header ul li a {
 
 #menu {
     width: 100;
-    background-image: linear-gradient(rgba(185, 185, 185, 0.656), rgba(0, 0, 0, 0.75)), url(/img/Tata-Starbucks-Indore.jpeg);
+    background-image: linear-gradient(rgba(185, 185, 185, 0.656), rgba(0, 0, 0, 0.75)), url(img/Tata-Starbucks-Indore.jpeg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 
@@ -299,7 +299,7 @@ header ul li a {
 #contact {
     justify-content: center;
     width: 100;
-    background-image: linear-gradient(rgba(185, 185, 185, 0.656), rgba(0, 0, 0, 0.75)), url(/img/Tata-Starbucks-Indore.jpeg);
+    background-image: linear-gradient(rgba(185, 185, 185, 0.656), rgba(0, 0, 0, 0.75)), url(img/Tata-Starbucks-Indore.jpeg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 
